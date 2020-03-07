@@ -1,2 +1,2 @@
-# git-challenge-nurruh
+# gitnurruh
 tugas git challenge dari sanbercode
